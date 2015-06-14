@@ -4,6 +4,8 @@ AngularJS directive for dyncamically switching templates based on a model change
 #### Usage
 Add a `<script>` include for `templateView.directive.js` to your index file.
 
+Add the `template-view` directive as an attribute to the element you would like your templates to show up within. The `watch` attribute will relay the model your watching for changes on, and the `options` attribute will relay the variable name you're using in your ControllerAs syntax, as well as your parent controller's scope.
+
 ``` html
 <div template-view
    	 watch="demo.selected"
