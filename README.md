@@ -32,6 +32,6 @@ demo.options = [{
 ```
 
 #### Examples
-See the related blog post @ <a href="http://www.codaform.net">Codaform</a>.
+See the related blog post @ <a href="http://www.codaform.net">Codaform</a></br>
 See the code in action @ <a href="http://plnkr.co/edit/66SwNeMdVx15YgbPZgng?p=preview">Plunker</a>
 
